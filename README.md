@@ -16,10 +16,4 @@ Welcome to the PyCitySchools Analysis Project! This repository contains the PyCi
 
 The project is executed in a Jupyter notebook, which includes data loading, aggregation, analysis, and visualization steps. The notebook is designed to be user-friendly, with clear comments and instructions throughout.
 
-# Conclusion
 
-Drug Regimen Efficacy: Summary statistics indicated that Capomulin and Ramicane were more effective in reducing tumor volume compared to Infubinol and Ceftamin.
-
-Data Integrity: The data was cleansed to ensure no duplication of mouse IDs at the same timepoints. All data types were validated and corrected where necessary, providing a robust foundation for analysis.
-
-Correlation and Regression: There was a strong positive correlation between mouse weight and tumor volume for the mice treated with Capomulin, suggesting that weight may influence tumor growth or response to treatment.
